@@ -6,5 +6,6 @@ int main() {
  cout << "owner : berwy"; 
 
   cout << " Diana)";
+  cout << "maksim fedosejevs";
   
 }
