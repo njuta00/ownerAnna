@@ -3,9 +3,10 @@ using namespace std;
 int main() {
   cout << "owner : Anna Butujeva";
 
- cout << "owner : berwy"; 
+ cout << " berwy"; 
 
   cout << " Diana)";
   cout << "maksim fedosejevs";
+  cout << "Deniss";
   
 }
