@@ -9,5 +9,5 @@ int main() {
   cout << "maksim fedosejevs";
   cout << "Deniss";
   cout << "Maksim MIhailov";
-  
+  cout << "Diana Tureiko";
 }
